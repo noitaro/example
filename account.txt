@@ -1,0 +1,6 @@
+[
+    {"id": "test1", "pwd": "test1nopassword"},
+    {"id": "test2", "pwd": "test2nopassword"},
+    {"id": "test3", "pwd": "test3nopassword"},
+    {"id": "test4", "pwd": "test4nopassword"}
+]
